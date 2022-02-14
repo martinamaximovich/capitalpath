@@ -98,7 +98,7 @@ public class Dijkstra {
     addEdge(nameV, nameU, cost);
   }
 
-  // STUDENT CODE STARTS HERE
+  
   
   /**
    * This class implements Dijkstra's algorithm. 
@@ -242,7 +242,6 @@ public class Dijkstra {
       return dijkstraPath;
   }
 
-  // STUDENT CODE ENDS HERE
 
   /**
    * Prints out the adjacency list of the dijkstra for debugging
